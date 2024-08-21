@@ -1,5 +1,6 @@
 public class Test{
-    public static void main(String[] args){
-        System.out.println("Hello from GitHub@2024");
+    public static String m1(){
+        String str="Hello from GitHub@2024";
+        System.out.println(str);
     }
 }
