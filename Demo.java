@@ -7,8 +7,4 @@ public class Demo{
         String str="Hello from Demo";
         System.out.println(str);
     }
-    public static void m4(){
-        String str="Hello from Demo";
-        System.out.println(str);
-    }
 }
